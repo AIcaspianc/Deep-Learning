@@ -1,4 +1,5 @@
 # **Case Study: Electric and Autonomous Vehicles**
+
 ## **1. Introduction**
 Electric and Autonomous Vehicles represent a pivotal shift in the automotive industry, heralding a future of cleaner, safer, and more efficient transportation. This case study delves into the realm of electric vehicles (EVs), which are at the forefront of this transformation. By analyzing real-world data, we seek to uncover the current trends, preferences, and distribution of EVs, offering insights into their adoption and the evolving landscape of personal and public transportation.
 ## **2. Meta Data (Data Description)**
