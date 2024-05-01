@@ -4,7 +4,7 @@
 
 This project embarks on an advanced journey into deep learning applications within the automotive sector. Utilizing a comprehensive dataset comprising various automotive attributes, the goal is to apply sophisticated neural network models to derive insightful predictions and analyses. The process, from data preprocessing to model evaluation, is meticulously documented in a Jupyter Notebook.
 
-## Case Study Problem
+## Case Study Problem 
 
 The primary challenge of this study revolves around the application of a deep learning model to predict or classify key automotive features. The dataset includes diverse aspects such as fuel efficiency, engine power, and vehicle weight. The task is to process and analyze this data effectively, employing an appropriate deep learning approach to ensure precise and insightful outcomes.
 
